@@ -1,0 +1,10 @@
+target
+.project
+
+.settings
+
+.classpath
+.idea
+bid-api/bid-api.iml
+bid-biz/bid-biz.iml
+bid-webapp/bid-webapp.iml
